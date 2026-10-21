@@ -1,6 +1,6 @@
 # Hi, I'm Kenneth
 
-I'm a final-year Data Science student in the Informatics program at the **University of Washington, Seattle**, originally from Indonesia. I work on data analytics in banking and finance, and I'm looking for **data science roles in Seattle**.
+I'm a final-year Data Science student in the Informatics program at the **University of Washington, Seattle**, originally from Indonesia. I work on data analytics in banking and finance, and I'm looking for **data science roles in Seattle**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kennethpangestu).
 
 ## What I work on
 
@@ -24,3 +24,7 @@ Analyzed a real experiment on about 90,000 players to decide whether a mobile ga
 ## Spoken languages
 
 English (fluent) · Bahasa Indonesia (native)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/kennethpangestu)
