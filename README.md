@@ -25,6 +25,11 @@ Used about 97,000 UK used car listings to measure how fast each brand loses valu
 
 `Python` `scikit-learn` `gradient boosting` `regression` `fixed effects`
 
+### [Car Parts Finder](https://github.com/kennethpangestu/car-parts-finder)
+A Streamlit app: pick your car's year, make and model and see used parts that fit it, grouped by category, using eBay's official fitment APIs. Each listing shows whether it's an exact or possible fit and is flagged when priced well below similar listings. One click opens the same search on Facebook Marketplace.
+
+`Python` `Streamlit` `REST APIs` `OAuth` `pandas`
+
 ## Tech stack
 
 - **Programming:** Python, SQL, Go, Java
