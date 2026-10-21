@@ -10,6 +10,11 @@ I'm a final-year Data Science student in the Informatics program at the **Univer
 
 ## Featured projects
 
+### [Movie Recommender: What Should This User Watch Next?](https://github.com/kennethpangestu/movie-recommender)
+Built and evaluated four top-10 recommenders on 100,000 MovieLens ratings, from a popularity baseline to item-based collaborative filtering, matrix factorization (PureSVD) and EASE. The best model scores 1.58× the popularity baseline on NDCG@10 and covers 5–6× more of the catalog. Uses a time-based split, validation tuning, and paired bootstrap tests between models.
+
+`Python` `NumPy` `SciPy` `recommender systems` `collaborative filtering` `ranking metrics`
+
 ### [A/B Testing Case Study: Gate Placement in a Mobile Game](https://github.com/kennethpangestu/ab-testing-case-study)
 Analyzed a real experiment on about 90,000 players to decide whether a mobile game should move its first progress gate from level 30 to level 40. Moving it lowered 7-day retention from 19.0% to 18.2% (p = 0.0016), so the recommendation is to keep it at 30. Includes a sample ratio mismatch check, power analysis, bootstrap confirmation, and a unit-tested stats module.
 
