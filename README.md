@@ -15,6 +15,11 @@ Analyzed a real experiment on about 90,000 players to decide whether a mobile ga
 
 `Python` `pandas` `SciPy` `hypothesis testing` `experiment design`
 
+### [Used Car Prices: Which Brands Hold Their Value?](https://github.com/kennethpangestu/used-car-price-depreciation)
+Used about 97,000 UK used car listings to measure how fast each brand loses value and to build a price model. Comparing cars of the same model and mileage, a Toyota keeps about 61% of its value after 5 years versus 52% for a BMW. A gradient-boosted model prices cars within about £1,060 (6.5%) on average, half the error of a comparable-listings baseline.
+
+`Python` `scikit-learn` `gradient boosting` `regression` `fixed effects`
+
 ## Tech stack
 
 - **Programming:** Python, SQL, Go, Java
