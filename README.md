@@ -12,9 +12,9 @@ I'm a final-year Data Science student in the Informatics program at the **Univer
 ## Featured projects
 
 ### [E-commerce BI Pipeline: Late Deliveries and Bad Reviews](https://github.com/kennethpangestu/ecommerce-bi-pipeline)
-An end-to-end BI project on 100k real marketplace orders: an ETL pipeline into a star-schema warehouse with 18 automated data quality checks, SQL analyses, statistical tests and an interactive dashboard. Late deliveries turn out to drive 27% of all 1–2 star reviews, costing about 2 stars per late order, and 72% of the delays happen in transit, not at the seller.
+An end-to-end BI project on 100k real marketplace orders: an ETL pipeline into a star-schema warehouse with 18 automated data quality checks, SQL analyses, statistical tests and an interactive [Tableau dashboard](https://public.tableau.com/app/profile/kenneth.pangestu/viz/OlistDeliveryReviews/Dashboard1). Late deliveries turn out to drive 27% of all 1–2 star reviews, costing about 2 stars per late order, and 72% of the delays happen in transit, not at the seller.
 
-`SQL` `ETL` `star schema` `data quality` `dashboards` `Python` `statistics`
+`SQL` `ETL` `star schema` `data quality` `Tableau` `Python` `statistics`
 
 ### [Movie Recommender: What Should This User Watch Next?](https://github.com/kennethpangestu/movie-recommender)
 Built and evaluated four top-10 recommenders on 100,000 MovieLens ratings, from a popularity baseline to item-based collaborative filtering, matrix factorization (PureSVD) and EASE. The best model scores 1.58× the popularity baseline on NDCG@10 and covers 5–6× more of the catalog. Uses a time-based split, validation tuning, and paired bootstrap tests between models.
