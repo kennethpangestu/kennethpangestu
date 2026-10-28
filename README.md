@@ -12,7 +12,7 @@ I'm a final-year Data Science student in the Informatics program at the **Univer
 ## Featured projects
 
 ### [E-commerce BI Pipeline: Late Deliveries and Bad Reviews](https://github.com/kennethpangestu/ecommerce-bi-pipeline)
-An end-to-end BI project on 100k real marketplace orders: an ETL pipeline into a star-schema warehouse with 18 automated data quality checks, SQL analyses, statistical tests and an interactive [Tableau dashboard](https://public.tableau.com/app/profile/kenneth.pangestu/viz/OlistDeliveryReviews/Dashboard1). Late deliveries turn out to drive 27% of all 1–2 star reviews, costing about 2 stars per late order, and 72% of the delays happen in transit, not at the seller.
+An end-to-end BI project on 100k real marketplace orders: an ETL pipeline into a star-schema warehouse with 18 automated data quality checks, SQL analyses, statistical tests and an interactive [Tableau dashboard](https://public.tableau.com/app/profile/kenneth.pangestu/viz/OlistDeliveryReviews/DeliveryandReviews). Late deliveries turn out to drive 27% of all 1–2 star reviews, costing about 2 stars per late order, and 72% of the delays happen in transit, not at the seller.
 
 `SQL` `ETL` `star schema` `data quality` `Tableau` `Python` `statistics`
 
