@@ -1,14 +1,20 @@
 # Hi, I'm Kenneth
 
-I'm a final-year Data Science student in the Informatics program at the **University of Washington, Seattle**, originally from Indonesia. I work on data analytics in banking and finance, and I'm looking for **data science roles in Seattle**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kennethpangestu).
+I'm a final-year Data Science student in the Informatics program at the **University of Washington, Seattle**, originally from Indonesia. I work on data analytics in banking and finance, and I'm looking for **data science and business intelligence roles in Seattle**. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kennethpangestu).
 
 ## What I work on
 
+- **Business intelligence.** Building dashboards and reports in Tableau and Power BI that turn raw data into decisions, including at Metrodata Electronics.
 - **Banking analytics at CIMB Niaga.** Built an analytics agent on Google's enterprise agent platform that answers questions across the bank's banking datasets.
 - **Financial data pipelines.** Built a scraper that collects company financial statements from the Indonesia Stock Exchange (IDX) and turns them into clean, comparable datasets for analysis.
 - **Experimentation and statistics.** Designing and analyzing A/B tests, from the sanity checks to the final recommendation.
 
 ## Featured projects
+
+### [E-commerce BI Pipeline: Late Deliveries and Bad Reviews](https://github.com/kennethpangestu/ecommerce-bi-pipeline)
+An end-to-end BI project on 100k real marketplace orders: an ETL pipeline into a star-schema warehouse with 18 automated data quality checks, SQL analyses, statistical tests and an interactive dashboard. Late deliveries turn out to drive 27% of all 1–2 star reviews, costing about 2 stars per late order, and 72% of the delays happen in transit, not at the seller.
+
+`SQL` `ETL` `star schema` `data quality` `dashboards` `Python` `statistics`
 
 ### [Movie Recommender: What Should This User Watch Next?](https://github.com/kennethpangestu/movie-recommender)
 Built and evaluated four top-10 recommenders on 100,000 MovieLens ratings, from a popularity baseline to item-based collaborative filtering, matrix factorization (PureSVD) and EASE. The best model scores 1.58× the popularity baseline on NDCG@10 and covers 5–6× more of the catalog. Uses a time-based split, validation tuning, and paired bootstrap tests between models.
@@ -34,7 +40,8 @@ A Streamlit app: pick your car's year, make and model and see used parts that fi
 
 - **Programming:** Python, SQL, Go, Java
 - **Data and ML:** pandas, NumPy, scikit-learn, SciPy, matplotlib
-- **Cloud and tools:** Google Cloud, BigQuery, Power BI, Excel, Git
+- **BI and data engineering:** Tableau, Power BI, Excel, ETL pipelines, dimensional modeling (star schema)
+- **Cloud and tools:** Google Cloud, BigQuery, SQLite, Git
 
 ## Spoken languages
 
